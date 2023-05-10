@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+#capa6 {
+    border: 5px double #539ADC;
+    width: 810px;
+    height: 300px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: #BDD8D9;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 18px;
+}
+#capa6 p #imagen2 {
+}

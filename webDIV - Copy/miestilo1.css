@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+#capa1 {
+    width: 400px;
+    height: 150px;
+    float: left;
+    background-color: #99E1E0;
+    border: medium double #539ADC;
+}
+#capa2 {
+    width: 400px;
+    height: 150px;
+    float: left;
+    margin-left: 0px;
+    background-color: #99E1E0;
+    border: medium double #539ADC;
+}
+#capa3 {
+    clear: both;
+    width: 810px;
+    border: medium groove #1D7AB3;
+}
+#capa2 strong {
+    text-align: center;
+
+}
+
+#capa4 {
+    width: 400px;
+    height: 200px;
+    background-color: #99E1E0;
+    float: left;
+    border: medium double #539ADC;
+}
+#capa5 {
+    width: 400px;
+    height: 200px;
+    float: left;
+    background-color: #99E1E0;
+    margin-left: 5px;
+    border: medium double #539ADC;
+}
+#capa4 img {
+    margin-top: 5px;
+    margin-left: 10px;
+    float: left;
+    margin-right: 8px;
+}
+#capa1 {
+    text-align: center;
+}
+
+#capa4 strong {
+    text-align: left;
+
+
+}
+
+#capa5 p {
+    text-align: center;
+}
+#capa4 p #imagen1 {
+}
